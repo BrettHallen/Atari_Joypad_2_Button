@@ -7,3 +7,8 @@ RightHanded/RevB/fp-info-cache
 MSX_Adaptor/fp-info-cache
 /MSX_Adaptor/MSX_Adaptor-backups
 *.kicad_prl
+/Paddle/Atari_Paddle-backups
+*.bak
+Paddle/fp-info-cache
+Paddle/fp-lib-table
+Paddle/sym-lib-table
