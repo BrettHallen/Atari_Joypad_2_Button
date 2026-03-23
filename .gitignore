@@ -1,3 +1,6 @@
 .DS_Store
 /LeftHanded/Atari_Joypad_2_Button-backups
 *.lck
+LeftHanded/fp-info-cache
+RightHanded/RevB/fp-info-cache
+/RightHanded/RevB/Atari_Joypad_2_Button-backups
