@@ -1,0 +1,6 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Height,Mouser Part Number,Mouser Price/Stock,Manufacturer_Name
+J1,1,DE9 Female,DSUB-9_Socket_EdgeMount_P2.77mm,,,,smt,"9-pin D-SUB connector, socket (female)",,,,
+J2,1,Pin Header,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,
+SW1,1,LEFT,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",,,,
+SW2,1,RIGHT,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted",,,,
+"VR1, VR2",2,PDB12-M4251-105BF,PDB12M4251105BF,,PDB12-M4251-105BF,,tht,Potentiometers 1M LINEAR 12MM,25,652-PDB12-M4251105BF,https://www.mouser.co.uk/ProductDetail/Bourns/PDB12-M4251-105BF?qs=8Ua%252BV%252BmvZK4cUDj2fkbDjA%3D%3D,Bourns

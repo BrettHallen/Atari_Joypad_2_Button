@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDB12-M4251-105BF
+D Potentiometers 1M LINEAR 12MM
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000140250.pdf
+$ENDCMP
+#
+#End Doc Library

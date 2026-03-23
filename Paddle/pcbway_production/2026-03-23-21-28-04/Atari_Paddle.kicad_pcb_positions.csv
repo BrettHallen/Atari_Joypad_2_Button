@@ -1,0 +1,7 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+131.760722,-56.62695,180.0,top,J1,,,DSUB-9_Socket_EdgeMount_P2.77mm,DE9 Female,smt
+121.485722,-151.12695,90.0,top,J2,,,PinHeader_1x09_P2.54mm_Vertical,Pin Header,tht
+110.145722,-76.62695,0.0,top,SW1,,,SW_PUSH-12mm,LEFT,tht
+110.145722,-119.62695,0.0,top,SW2,,,SW_PUSH-12mm,RIGHT,tht
+144.145722,-89.12695,0.0,top,VR1,PDB12-M4251-105BF,,PDB12M4251105BF,PDB12-M4251-105BF,tht
+144.145722,-131.62695,0.0,top,VR2,PDB12-M4251-105BF,,PDB12M4251105BF,PDB12-M4251-105BF,tht

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PDB12-M4251-105BF
+#/571974/1216038/2.50/5/0/Variable Resistor
+DEF PDB12-M4251-105BF VR 0 30 Y Y 1 F N
+F0 "VR" 950 300 50 H V L CNN
+F1 "PDB12-M4251-105BF" 950 200 50 H V L CNN
+F2 "PDB12M4251105BF" 950 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-7/sf-000140250.pdf" 950 0 50 H I L CNN
+F4 "Potentiometers 1M LINEAR 12MM" 950 -100 50 H I L CNN "Description"
+F5 "25" 950 -200 50 H I L CNN "Height"
+F6 "652-PDB12-M4251105BF" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Bourns/PDB12-M4251-105BF?qs=8Ua%252BV%252BmvZK4cUDj2fkbDjA%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PDB12-M4251-105BF" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X CCW 1 0 0 200 R 50 50 0 0 P
+X WIPER 2 0 -200 200 R 50 50 0 0 P
+X CW 3 0 -100 200 R 50 50 0 0 P
+X MH1 MH1 1100 0 200 L 50 50 0 0 P
+X MH2 MH2 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
