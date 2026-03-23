@@ -11,6 +11,10 @@ There are two (right handed) versions:<br>
 - Rev. A matches the Atari 7800 layout: FIRE1 on left, FIRE2 on right
 - Rev. B matches the NES layout: FIRE1/A on right, FIRE2/B on left
 
+In testing I found my right thumb naturally resting on the FIRE2 (rightmost) button, hence the Rev. B design.<br>
+
+Of course using it with something that expects Atari 2600 it doesn't matter as both FIRE buttons function the same.<br>
+
 ![Clueless Joypad RH Rev. A](/Clueless_Joypad_RH_RevA.png)
 
 I have started a left-handed version ... any need?
