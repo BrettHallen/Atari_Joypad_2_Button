@@ -35,9 +35,11 @@ Suggested linear potentiometer values I've seen are 1MΩ for Atari and 470KΩ fo
 ![Paddle 3D](/Paddle/Atari_Paddle_3D.png)
 
 ## [MSX Adaptor](/MSX_Adaptor)
-I had an idea that an MSX adaptor board could be connected underneath the Atari 2600/7800 board to serve as an adaptor.<br>
+I had an idea that an MSX adaptor board could be connected underneath the Atari 2600/7800 board.<br>
 
 The one joypad could then be connected natively to either Atari 2600/7800 (top PCB) or MSX (bottom PCB).<br>
+
+??<br>
 
 ![MSX adaptor 3D](/MSX_Adaptor/MSX_Adaptor_3D.png)
 
