@@ -21,6 +21,9 @@ I have started a [left-handed](/LeftHanded) version ... any need?
 
 ![Clueless Joypad LH 3D](/LeftHanded/Atari_Joypad_2_Button_LH_3D.png)
 
+## YouTube Videos
+- [Part 1: Initial test (right handed, Rev. A)](https://youtu.be/WF11pfEDQUY)
+
 ## [MSX Adaptor](/MSX_Adaptor)
 I had an idea that an MSX adaptor board could be connected underneath the Atari 2600/7800 board to serve as an adaptor.<br>
 
