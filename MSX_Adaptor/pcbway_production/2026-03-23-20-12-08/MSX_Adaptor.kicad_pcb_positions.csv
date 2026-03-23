@@ -1,0 +1,7 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+126.185722,-73.12695,180.0,top,J1,,,DSUB-9_Socket_EdgeMount_P2.77mm,MSX Output,smt
+113.325722,-123.05695,90.0,top,J2,,,PinHeader_1x09_P2.54mm_Vertical,Atari Input,tht
+137.155722,-102.33695,0.0,top,Q1,,,TO-92_Inline,BC548,tht
+137.155722,-87.09695,0.0,top,Q2,,,TO-92_Inline,BC548,tht
+146.045722,-107.41695,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht
+146.045722,-92.17695,180.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10KΩ,tht

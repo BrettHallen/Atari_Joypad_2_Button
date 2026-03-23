@@ -1,0 +1,5 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Type,Sim.Pins
+J1,1,MSX Output,DSUB-9_Socket_EdgeMount_P2.77mm,,,,smt,"9-pin D-SUB connector, socket (female)",,,
+J2,1,Atari Input,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)",,,
+"Q1, Q2",2,BC548,TO-92_Inline,,,,tht,"Bipolar transistor symbol for simulation only, substrate tied to the emitter",NPN,GUMMELPOON,1=C 2=B 3=E
+"R1, R2",2,10KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,,
