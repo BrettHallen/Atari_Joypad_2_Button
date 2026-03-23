@@ -24,6 +24,13 @@ I have started a [left-handed](/LeftHanded) version ... any need?
 ## YouTube Videos
 - [Part 1: Initial test (right handed, Rev. A)](https://youtu.be/WF11pfEDQUY)
 
+## [Paddle](/Paddle)
+Design for a troubleshooting paddle based on Atari design.<br>
+
+Suggested linear potentiometer values I've seen are 1MΩ for Atari and 470KΩ for Commodore.<br>
+
+![Paddle 3D](/Paddle/Atari_Paddle_3D.png)
+
 ## [MSX Adaptor](/MSX_Adaptor)
 I had an idea that an MSX adaptor board could be connected underneath the Atari 2600/7800 board to serve as an adaptor.<br>
 
